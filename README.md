@@ -1,1 +1,1 @@
-# The-Little-Bag-Shop
+# A retail management system using Java OOP
