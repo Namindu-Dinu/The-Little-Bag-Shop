@@ -1,0 +1,9 @@
+Bag ID , Name            , Category       , Price  , Stock Quantity
+B001   / Elegant_Tote    / Tote_Bags      / 5000   / 20
+B002   / Leather_Tote    / Tote_Bags      / 6000   / 10
+B003   / Classic         / Backpacks      / 6000   / 10
+B004   / Casual          / Shoulder_Bags  / 9000   / 10
+B005   / Vintage_Leather / Messenger_Bags / 15000  / 10
+B006   / Gym_Duffel      / Duffel_Bags    / 12000  / 10
+B007   / Mini_Crossbody  / Crossbody_Bags / 5000   / 10
+B008   / DayPack         / Backpacks      / 8500   / 10
